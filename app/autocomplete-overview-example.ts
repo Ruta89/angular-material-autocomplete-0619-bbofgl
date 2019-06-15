@@ -287,6 +287,13 @@ export class AutocompleteOverviewExample {
       "artykul": '5149992',
       "tonaz": 100000,
       "rodzaj": "doMega"
+
+    },
+    {
+      "color": "https://dolezych.pl/wp-content/uploads/sites/12/2018/08/Bez-nazwy.jpg",
+      "artykul": '5000120',
+      "tonaz": 2000,
+      "rodzaj": "Linki"
     }
   ];
 
