@@ -49,19 +49,19 @@ export class AutocompleteOverviewExample {
     }
     ,
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://media.ladungssicherung.eu/media/catalog/product/cache/2/thumbnail/1024x/086573fb18a536de18772a590c1bc25c/r/u/rundschlinge_rs40_d.png',
       "artykul": '5144512',
       "tonaz": 4000,
       "rodzaj": "DeForce 1"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://www.cargocontrol.nl/wp-content/uploads/2014/12/rondstopRood.jpg',
       "artykul": '5145512',
       "tonaz": 5000,
       "rodzaj": "DeForce 1"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://images-na.ssl-images-amazon.com/images/I/41q3Ku2WlHL._SY355_.jpg',
       "artykul": '5146012',
       "tonaz": 6000,
       "rodzaj": "DeForce 1"
@@ -91,25 +91,25 @@ export class AutocompleteOverviewExample {
       "rodzaj": "DeForce 2"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://www.fervi.com/ftp/images/FTx-3000.jpg',
       "artykul": '5143022',
       "tonaz": 3000,
       "rodzaj": "DeForce 2"
     },
     {
-      "color": 'https://www.lankhorstropes.com/media/140/EN/Producten/390/800x600xcover@70@@/tipto-web-round-slings-with-ce-mark-according-to-en-1492-2-%25281%2529.jpg',
+      "color": 'https://media.ladungssicherung.eu/media/catalog/product/cache/2/thumbnail/1024x/086573fb18a536de18772a590c1bc25c/r/u/rundschlinge_rs40_d.png',
       "artykul": '5144522',
       "tonaz": 4000,
       "rodzaj": "DeForce 2"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://www.cargocontrol.nl/wp-content/uploads/2014/12/rondstopRood.jpg',
       "artykul": '5145522',
       "tonaz": 5000,
       "rodzaj": "DeForce 2"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://images-na.ssl-images-amazon.com/images/I/41q3Ku2WlHL._SY355_.jpg',
       "artykul": '5146022',
       "tonaz": 6000,
       "rodzaj": "DeForce 2"
@@ -139,25 +139,25 @@ export class AutocompleteOverviewExample {
       "rodzaj": "DeDoweb"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://www.fervi.com/ftp/images/FTx-3000.jpg',
       "artykul": '5143032',
       "tonaz": 3000,
       "rodzaj": "DeDoweb"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://media.ladungssicherung.eu/media/catalog/product/cache/2/thumbnail/1024x/086573fb18a536de18772a590c1bc25c/r/u/rundschlinge_rs40_d.png',
       "artykul": '5144532',
       "tonaz": 4000,
       "rodzaj": "DeDoweb"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://www.cargocontrol.nl/wp-content/uploads/2014/12/rondstopRood.jpg',
       "artykul": '5145532',
       "tonaz": 5000,
       "rodzaj": "DeDoweb"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://images-na.ssl-images-amazon.com/images/I/41q3Ku2WlHL._SY355_.jpg',
       "artykul": '5146032',
       "tonaz": 6000,
       "rodzaj": "DeDoweb"
@@ -187,25 +187,25 @@ export class AutocompleteOverviewExample {
       "rodzaj": "doPremium"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://www.fervi.com/ftp/images/FTx-3000.jpg',
       "artykul": '5143052',
       "tonaz": 3000,
       "rodzaj": "doPremium"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://media.ladungssicherung.eu/media/catalog/product/cache/2/thumbnail/1024x/086573fb18a536de18772a590c1bc25c/r/u/rundschlinge_rs40_d.png',
       "artykul": '5144552',
       "tonaz": 4000,
       "rodzaj": "doPremium"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://www.cargocontrol.nl/wp-content/uploads/2014/12/rondstopRood.jpg',
       "artykul": '5145552',
       "tonaz": 5000,
       "rodzaj": "doPremium"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://images-na.ssl-images-amazon.com/images/I/41q3Ku2WlHL._SY355_.jpg',
       "artykul": '5146052',
       "tonaz": 6000,
       "rodzaj": "doPremium"
@@ -217,7 +217,7 @@ export class AutocompleteOverviewExample {
       "rodzaj": "doPremium"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://www.rhtltd.co.uk/image/cache/catalog/Miller%20Weblift/Images/Round%20Slings/10-tonne-round-sling-(1)-500x500.jpg',
       "artykul": '5148025',
       "tonaz": 10000,
       "rodzaj": "doPremium"
@@ -241,13 +241,13 @@ export class AutocompleteOverviewExample {
       "rodzaj": "doMega"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://www.rhtltd.co.uk/image/cache/catalog/Miller%20Weblift/Images/Round%20Slings/10-tonne-round-sling-(1)-500x500.jpg',
       "artykul": '5149512',
       "tonaz": 20000,
       "rodzaj": "doMega"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://www.rhtltd.co.uk/image/cache/catalog/Miller%20Weblift/Images/Round%20Slings/10-tonne-round-sling-(1)-500x500.jpg',
       "artykul": '5149812',
       "tonaz": 25000,
       "rodzaj": "doMega"
@@ -259,31 +259,31 @@ export class AutocompleteOverviewExample {
       "rodzaj": "doMega"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://www.rhtltd.co.uk/image/cache/catalog/Miller%20Weblift/Images/Round%20Slings/10-tonne-round-sling-(1)-500x500.jpg',
       "artykul": '5149962',
       "tonaz": 40000,
       "rodzaj": "doMega"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://www.rhtltd.co.uk/image/cache/catalog/Miller%20Weblift/Images/Round%20Slings/10-tonne-round-sling-(1)-500x500.jpg',
       "artykul": '5149972',
       "tonaz": 50000,
       "rodzaj": "doMega"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://www.rhtltd.co.uk/image/cache/catalog/Miller%20Weblift/Images/Round%20Slings/10-tonne-round-sling-(1)-500x500.jpg',
       "artykul": '5149932',
       "tonaz": 60000,
       "rodzaj": "doMega"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://www.rhtltd.co.uk/image/cache/catalog/Miller%20Weblift/Images/Round%20Slings/10-tonne-round-sling-(1)-500x500.jpg',
       "artykul": '5149942',
       "tonaz": 80000,
       "rodzaj": "doMega"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://www.rhtltd.co.uk/image/cache/catalog/Miller%20Weblift/Images/Round%20Slings/10-tonne-round-sling-(1)-500x500.jpg',
       "artykul": '5149992',
       "tonaz": 100000,
       "rodzaj": "doMega"
