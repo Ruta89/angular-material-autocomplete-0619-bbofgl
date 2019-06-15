@@ -1,7 +1,7 @@
 {{stateInput.value}}
 <form class="example-form">
   <mat-form-field class="example-full-width">
-    <input #stateInput (keyup)="0" matInput placeholder="State" aria-label="State" [matAutocomplete]="auto" [formControl]="stateCtrl">
+    <input #stateInput (keyup)="0" matInput placeholder="Nr. artykułu" aria-label="State" [matAutocomplete]="auto" [formControl]="stateCtrl">
     <mat-autocomplete #auto="matAutocomplete">
   
   <mat-option (onSelectionChange)="stateInput.value !=undefined && onEnter($event)" *ngFor="let state of filteredStates | async" [value]="state.artykul">
