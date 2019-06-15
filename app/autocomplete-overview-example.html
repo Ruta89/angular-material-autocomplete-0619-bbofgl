@@ -1,4 +1,4 @@
-{{stateInput.value}}
+<!-- {{stateInput.value}} -->
 <form class="example-form">
 	<mat-form-field class="example-full-width">
 		<input #stateInput (keyup)="0" matInput placeholder="Nr. artykułu"  type="number" aria-label="State" [matAutocomplete]="auto" [formControl]="stateCtrl">
@@ -6,8 +6,9 @@
   
   <mat-option (onSelectionChange)="stateInput.value !=undefined && onEnter($event)" *ngFor="let state of filteredStates | async" [value]="state.artykul">
         <img style="vertical-align:middle;" aria-hidden src="{{state.color}}" height="50" />
-        <span>{{ state.artykul }}</span> |
-        <small>rodzaj: {{state.rodzaj}}</small>
+           <span>{{ state.tonaz }}t </span>  |
+        <small>  {{state.rodzaj}}</small>
+        <small>{{ state.artykul }}</small> 
       </mat-option>
     </mat-autocomplete>
   </mat-form-field>
@@ -17,7 +18,7 @@
   <mat-slide-toggle
     [checked]="stateCtrl.disabled"
     (change)="stateCtrl.disabled ? stateCtrl.enable() : stateCtrl.disable()">
-    Disable Input?
+    Wyłączyć?
   </mat-slide-toggle>
 </form>
 
