@@ -30,7 +30,7 @@ export class AutocompleteOverviewExample {
       "rodzaj": "DeForce 1"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://img.thexmod.com/toolstream/640/297196_ENWNMPRO1.jpg',
       "artykul": '5141012',
       "tonaz": 1500,
       "rodzaj": "DeForce 1"
@@ -67,7 +67,7 @@ export class AutocompleteOverviewExample {
       "rodzaj": "DeForce 1"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://image.made-in-china.com/202f0j00PMzTGrNfVygR/8000kg-Endless-Round-Sling-Lifting-Sling.jpg',
       "artykul": '5147512',
       "tonaz": 8000,
       "rodzaj": "DeForce 1"
@@ -79,7 +79,7 @@ export class AutocompleteOverviewExample {
       "rodzaj": "DeForce 2"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://img.thexmod.com/toolstream/640/297196_ENWNMPRO1.jpg',
       "artykul": '5141022',
       "tonaz": 1500,
       "rodzaj": "DeForce 2"
@@ -115,19 +115,19 @@ export class AutocompleteOverviewExample {
       "rodzaj": "DeForce 2"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://image.made-in-china.com/202f0j00PMzTGrNfVygR/8000kg-Endless-Round-Sling-Lifting-Sling.jpg',
       "artykul": '5147522',
       "tonaz": 8000,
       "rodzaj": "DeForce 2"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://img.thexmod.com/toolstream/640/297196_ENWNMPRO1.jpg',
       "artykul": '5140532',
       "tonaz": 1000,
       "rodzaj": "DeDoweb"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://img.thexmod.com/toolstream/640/297196_ENWNMPRO1.jpg',
       "artykul": '5141032',
       "tonaz": 1500,
       "rodzaj": "DeDoweb"
@@ -163,19 +163,19 @@ export class AutocompleteOverviewExample {
       "rodzaj": "DeDoweb"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://image.made-in-china.com/202f0j00PMzTGrNfVygR/8000kg-Endless-Round-Sling-Lifting-Sling.jpg',
       "artykul": '5147532',
       "tonaz": 8000,
       "rodzaj": "DeDoweb"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://img.thexmod.com/toolstream/640/297196_ENWNMPRO1.jpg',
       "artykul": '5140552',
       "tonaz": 1000,
       "rodzaj": "doPremium"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://img.thexmod.com/toolstream/640/297196_ENWNMPRO1.jpg',
       "artykul": '5141052',
       "tonaz": 1500,
       "rodzaj": "doPremium"
@@ -211,7 +211,7 @@ export class AutocompleteOverviewExample {
       "rodzaj": "doPremium"
     },
     {
-      "color": 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg',
+      "color": 'https://image.made-in-china.com/202f0j00PMzTGrNfVygR/8000kg-Endless-Round-Sling-Lifting-Sling.jpg',
       "artykul": '5147552',
       "tonaz": 8000,
       "rodzaj": "doPremium"
